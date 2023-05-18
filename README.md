@@ -2,7 +2,7 @@
  👀 I’m interested in improving apps, building games and learning new software languages
  🌱 I’m currently learning Dynamic Web Applications and just recently learned CSS, Javascript and HTML
  
- <h3 align="center">A passionate frontend developer from India</h3>
+ <h3 align="center">A passionate frontend developer from Phokeng</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
